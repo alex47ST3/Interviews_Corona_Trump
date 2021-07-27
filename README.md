@@ -13,7 +13,7 @@ The structure consist on:
 -	requirements.txt: contains the python libraries needed in order to execute the project
 
 
-To run the testss access to the project's directory and run test.py
+**To run the testss access to the project's directory and run test.py**
 
 
 Coverage report:
