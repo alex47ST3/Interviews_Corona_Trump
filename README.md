@@ -19,12 +19,7 @@ To run the testss access to the project's directory and run test.py
 Coverage report
 
 Name      Stmts   Miss  Cover
------------------------------
+
 test.py      70     10    86%
------------------------------
+
 TOTAL        70     10    86%
-
-
-License: Public Domain
-
-
